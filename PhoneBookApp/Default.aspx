@@ -28,6 +28,9 @@
             </td>
         </tr>
         <tr>
+
+        </tr>
+        <tr>
             <td>
                 <asp:Button ID="BtnAdd" runat="server" Text="ADD" OnClick="BtnAdd_Click" />
                 <asp:Button ID="btnUpdate" runat="server" Text="Update" OnClick="btnUpdate_Click"  />
